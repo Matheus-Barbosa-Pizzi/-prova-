@@ -1,0 +1,14 @@
+java script -> inperativa
+html -> declarativa
+
+1)  3
+2)  1
+3)  serve para criar flexbox para organizar o app
+4)  relativo serve para posicionar de acordo com o tamanha da pagina enquanto o absolu o prende em um local especifico
+5)  serve para dar transparencia a um objeto
+6)  jsxml
+7)  snacks
+8)  utilizar o "my device" para tranferir o codigo para um app em um aparelho celular para testalo
+9)  para exibir qualquer componente dentro dele
+10) para retornar o valor
+11) button, view e text
